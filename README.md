@@ -1,4 +1,3 @@
 # hello-world
 First time using git!
-I kind of make a mistake!
-And now I want to fix it!
+They ask me to introduce myself in the new branch view. Then I am gonna to introduce myself.
